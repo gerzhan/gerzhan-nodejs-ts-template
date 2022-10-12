@@ -1,0 +1,23 @@
+{
+  "name": "@gerzhan/nodejs-ts-template",
+  "version": "1.0.0",
+  "description": "репозиторий-шаблон NodeJS + TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "docsify serve ./_docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerzhan/gerzhan-nodejs-ts-template.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Nikolay Gerzhan <nikolay.gerzhan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gerzhan/gerzhan-nodejs-ts-template/issues"
+  },
+  "homepage": "https://github.com/gerzhan/gerzhan-nodejs-ts-template#readme"
+}
